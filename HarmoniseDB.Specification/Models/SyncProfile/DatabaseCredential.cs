@@ -1,4 +1,4 @@
-﻿namespace HarmoniseDB.Specification.Models
+﻿namespace HarmoniseDB.Specification.Models.SyncProfile
 {
     public class DatabaseCredential
     {
